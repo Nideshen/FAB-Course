@@ -2,20 +2,23 @@
 
 Dreams & Complains in group  
 
-Dreams: 
+## Dreams: 
 
-Have safe and cheap raw food
+- Have safe and cheap raw food
 
-Go hiking to magnificent landscapes.
+- Go hiking to magnificent landscapes.
+- Keep disinfected everywhere
 
-Complains: 
+## Complains: 
 
-Inconvienece to fetch diliveries from school gate
+- Inconvenience to fetch deliveries from school gate
 
-Restriction of travelling outside Shanghai
+- Restriction of travelling outside Shanghai
 
-Limited daily visits to amusement parks and tourist attractions
+- Limited daily visits to amusement parks and tourist attractions
+- Voices erases through masks
 
-Dreams & Complains from other students in campus  
-Dreams:想去比较远的地方旅游  
-Complains:戴口罩呼吸很难受  
+## Dreams & Complains from other students in campus  
+
+- Dreams: 想去比较远的地方旅游  
+- Complains: 戴口罩呼吸很难受  
