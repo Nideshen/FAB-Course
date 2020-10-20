@@ -10,13 +10,10 @@
 # Understand in storytelling
 
 - See it in Somewhere
-- To make mask more acceptable
 
 # "HMW" Question
 
-- How do you feel about wearing  a mask?
-- Can you tell me a story about your life went out during the period of epidemic?
-- Can you say more about that?
+- How might we  make mask more acceptable and more humanize
 
 # Idea About ?
 
