@@ -2,7 +2,7 @@
 
 - StoryA:  疫情期间，擦肩而过，原本是微笑，但是因为有口罩，所以在对方看来是在盯着我看，非常的奇怪。
 
-  - During the epidemic I passed by my best friend, I turned around and smiled at him, but but because of the mask I couldn't see my face on the other side and it was very embarrassing.
+  - During the epidemic I passed by my best friend, I turned around and smiled at him, but because of the mask he couldn't see my face and it was very embarrassing for me.
 
 - StoryB:  日常生活期间，比较木讷的同学不善于通过面部表情表达自己
 
